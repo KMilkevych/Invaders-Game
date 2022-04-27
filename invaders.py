@@ -1,3 +1,4 @@
+
 import pygame
 from pygame.locals import *
 import math
@@ -2085,5 +2086,4 @@ superpowers = {
 #starting the level selection screen
 #out = doLevelSelectionScreen(window) #launches the level selection screen with the created window as the drawing surface
 out = doMainMenu(window)
-
 sys.exit()
