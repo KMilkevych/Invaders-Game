@@ -19,4 +19,4 @@ The controls are very simple:
 ## Dependencies
 - PyGame
 - Python 3.6
-- Sprites in the "Sprites" folder
+- Sprites in the "sprites" folder
